@@ -13,4 +13,5 @@ openai-whisper
 jiwer
 soundfile
 librosa
+flash-attn
 
