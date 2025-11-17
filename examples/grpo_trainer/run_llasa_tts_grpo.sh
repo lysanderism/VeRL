@@ -46,9 +46,8 @@ python3 -m verl.trainer.main_ppo \
     trainer.logger=['console','tensorboard'] \
 
 # ray stop -f
-# bash examples/grpo_trainer/run_llasa_tts_grpo.sh
 # ray start --head --dashboard-port 8883
+# bash examples/grpo_trainer/run_llasa_tts_grpo.sh
 # nohup bash examples/grpo_trainer/run_llasa_tts_grpo.sh >train1b.log 2>&1 &
-# validation generation end
 
 # tensorboard --logdir=tensorboard_log --port 6019
