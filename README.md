@@ -82,6 +82,9 @@ WHISPER_SERVER=http://localhost:8001
 ## Launch Training
 
 ```bash
+ray stop -f
+ray start --head --dashboard-port 8880
+bash examples/grpo_trainer/run_llasa_tts_grpo.sh
 nohup bash ./examples/grpo_trainer/run_llasa_tts_grpo.sh > verl_grpo_1b.log 2>&1 &
 ```
 
