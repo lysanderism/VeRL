@@ -3,9 +3,6 @@ CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 \
   tts/whisper_ddp.py --port 8000
 
 
-# CUDA_VISIBLE_DEVICES=0 python tts/whisper_server.py --port 8000
-# cd /ttsrl/ch-tts-llasa-rl-grpo
-
 # bash lanuch.sh
 # ray start --head --dashboard-port 8888
 # ray stop -f
