@@ -5,8 +5,8 @@ export no_proxy="localhost,127.0.0.1"
 
 python3 -m verl.trainer.main_ppo \
     algorithm.adv_estimator=grpo \
-    data.train_files=./data/llasa-tts-rl-m/train.parquet \
-    data.val_files=./data/llasa-tts-rl-m/test.parquet \
+    data.train_files=./data/llasa-tts-rl-multi/train.parquet \
+    data.val_files=./data/llasa-tts-rl-multi/test.parquet \
     data.train_batch_size=128 \
     data.max_prompt_length=512 \
     data.max_response_length=2048 \
@@ -36,7 +36,7 @@ python3 -m verl.trainer.main_ppo \
     custom_reward_function.name=compute_score \
     reward_model.reward_manager=naive \
     trainer.project_name='llasa_tts_grpo' \
-    trainer.experiment_name='whisper_cer_reward_1b_special' \
+    trainer.experiment_name='whisper_cer_reward_1b' \
     trainer.n_gpus_per_node=8 \
     trainer.nnodes=1 \
     trainer.save_freq=4 \
@@ -46,15 +46,9 @@ python3 -m verl.trainer.main_ppo \
     trainer.logger=['console','tensorboard'] \
 
 # ray stop -f
-# rewrad model 
 # bash examples/grpo_trainer/run_llasa_tts_grpo.sh
 # ray start --head --dashboard-port 8883
 # nohup bash examples/grpo_trainer/run_llasa_tts_grpo.sh >train1b.log 2>&1 &
 # validation generation end
-
-# python3 scripts/model_merger.py merge \
-#     --backend fsdp \
-#     --local_dir checkpoints/llasa_tts_grpo/whisper_cer_reward_1b_5000/global_step_40/actor \
-#     --target_dir checkpoints/llasa_tts_grpo/whisper_cer_reward_1b_5000/global_step_40/huggingface
 
 # tensorboard --logdir=tensorboard_log --port 6019
