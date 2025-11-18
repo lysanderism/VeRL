@@ -1,0 +1,1802 @@
+[
+    {
+        "id": "text_paralinguistics_22044.wav",
+        "text": "Um...I'm not really sure. I wasn't paying attention to the speedometer.",
+        "type": "PARALINGUISTICS",
+        "Pitch": "Medium",
+        "Volume": "Low",
+        "Speed": "Low",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_paralinguistics_22953.wav",
+        "text": "Ow! My leg! I think I've hurt it pretty badly.",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Pain/Sad"
+    },
+    {
+        "id": "2461.wav",
+        "text": "Pete's plans are plain because plain plans please Pete.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_paralinguistics_10758.wav",
+        "text": "What are you gonna do about it, huh?",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "text_paralinguistics_32164.wav",
+        "text": "Whoa, dude! That's awesome! How does it feel?",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "2389.wav",
+        "text": "What is one of the uses of manganese phosphating?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "18.wav",
+        "text": "There are 95 municipalities (or \"comuni\") in the province; they are:",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_questions_13023.wav",
+        "text": "Who was surprised by the statement Hans made of killing?",
+        "type": "QUESTIONS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Surprised"
+    },
+    {
+        "id": "text_paralinguistics_29356.wav",
+        "text": "Ugh, I can't believe she would do that! It just shows how inconsiderate she is!",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "2541.wav",
+        "text": "The poor dog's paw poured water from every pore.",
+        "type": "EMOTION",
+        "Pitch": "Low",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "text_paralinguistics_25349.wav",
+        "text": "Hey, so, I um...I don't really know how to say this, but...I think I'm in trouble.",
+        "type": "PARALINGUISTICS",
+        "Pitch": "Medium",
+        "Volume": "Low",
+        "Speed": "Low",
+        "Emotion": "Fearful"
+    },
+    {
+        "id": "text_emotion_3970.wav",
+        "text": "` You could have lent it to me, \" Paula said, peeved. ",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "1833.wav",
+        "text": "Pomeranians are sometimes called Zwergspitz (which is a Dwarf Spitz) and Toy German Spitz in different countries.",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_emotion_3142.wav",
+        "text": "When my beloved girlfriend got married to another person.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Low",
+        "Speed": "Low",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "242.wav",
+        "text": "Billy's big blue badly-bleeding blister.",
+        "type": "COMPOUND_NOUNS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Fearful"
+    },
+    {
+        "id": "text_emotion_994.wav",
+        "text": " What does that have to do with those men shooting at us? Most importantly, why did you lie to me! ",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "2777.wav",
+        "text": "Nah, I just did it myself.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "609.wav",
+        "text": "Let me check...Yep, we have a table for two open at that time. What's your name?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "813.wav",
+        "text": " I would think this was the least they could do. ",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_emotion_3254.wav",
+        "text": "A horse which I had liked very much was taken away.",
+        "type": "EMOTION",
+        "Pitch": "Low",
+        "Volume": "Medium",
+        "Speed": "Low",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "2950.wav",
+        "text": "What did he notice about his sheep?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "726.wav",
+        "text": "Thiruvalluvar ( in Tamil), was a Tamil poet and philosopher who wrote the classic of couplets of Tamil, \"Thirukkural\".",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_emotion_722.wav",
+        "text": "Every time I imagine that someone I love or I could contact a serious illness, even death.",
+        "type": "EMOTION",
+        "Pitch": "Low",
+        "Volume": "Low",
+        "Speed": "Medium",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "273.wav",
+        "text": "Did she hide something in her underwear?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Surprised"
+    },
+    {
+        "id": "640.wav",
+        "text": "The sixth sick Sikh's sixth sheep is sick.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "High",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_emotion_3628.wav",
+        "text": "The boss sounded agitated when I spoke to him over the phone. \" ",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "2237.wav",
+        "text": "Got in touch with earlier friends after a long absence.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "963.wav",
+        "text": "Niederhelfenschwil borders the following municipalities: Niederbüren, Oberbüren and Zuzwil (Canton of St. Gallen); Bischofszell, Kradolf-Schönenberg and Wuppenau (Canton of Thurgau).",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "2382.wav",
+        "text": "He ran on Sundays. He ran on Mondays. He ran from the Indies to the Andes in his undies.",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "High",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "text_emotion_2766.wav",
+        "text": "That concern turned to heartbreak when they heard of his mother 's grim fate. ",
+        "type": "EMOTION",
+        "Pitch": "Low",
+        "Volume": "Medium",
+        "Speed": "Low",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "text_paralinguistics_18636.wav",
+        "text": "Hey, um, can I talk to you for a second?",
+        "type": "PARALINGUISTICS",
+        "Pitch": "Medium",
+        "Volume": "Low",
+        "Speed": "Low",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "908.wav",
+        "text": "Peshawar is derived from Purushapura which means city of men (Purusha means Man).",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_emotion_2570.wav",
+        "text": "` He 's livid about Opal. \" ",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "text_paralinguistics_23847.wav",
+        "text": "Uh...I was working on the Johnson account report?",
+        "type": "PARALINGUISTICS",
+        "Pitch": "Medium",
+        "Volume": "Low",
+        "Speed": "Low",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_emotion_78.wav",
+        "text": " What kind of solution can I have now? I nearly go crazy now. ",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "743.wav",
+        "text": "One of the tributaries is the \"Jezernica\" river, that is only long and which originates from the Wild Lake ().",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_emotion_2795.wav",
+        "text": "When I was in a little fishing boat and we ran into hard weather in the open sea.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Fearful"
+    },
+    {
+        "id": "text_emotion_1652.wav",
+        "text": "After the coming of the man in the night, Miguel had grown glum and thoughtful. ",
+        "type": "EMOTION",
+        "Pitch": "Low",
+        "Volume": "Medium",
+        "Speed": "Low",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "text_paralinguistics_26623.wav",
+        "text": "Ow! What the heck, Terriana!",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "text_emotion_3478.wav",
+        "text": " I haven't even told you what it is yet! ",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "High",
+        "Emotion": "Surprised"
+    },
+    {
+        "id": "text_questions_15593.wav",
+        "text": "could the chipmunks eat it all in one sitting?",
+        "type": "QUESTIONS",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "High",
+        "Emotion": "Surprised"
+    },
+    {
+        "id": "2925.wav",
+        "text": "Harnizo (har-NEE-so) is a Spanish term for a person who is around 2/3 Caucasian and 1/3 Indigenous ancestry.",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_paralinguistics_30093.wav",
+        "text": "Ugh, I don't want any of that. I'm so sick of chicken and rice. And I hate broccoli!",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Disgust"
+    },
+    {
+        "id": "545.wav",
+        "text": "Wolfratshausen ( ] \"Woifradshausn\") is a town in Bad Tölz-Wolfratshausen, a district \"(Landkreis)\" in Upper Bavaria.",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_paralinguistics_3360.wav",
+        "text": "Whoa! How did that happen?",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Surprised"
+    },
+    {
+        "id": "text_paralinguistics_34461.wav",
+        "text": "Ay yay yay! My foot!",
+        "type": "PARALINGUISTICS",
+        "Pitch": "Very High",
+        "Volume": "Very High",
+        "Speed": "High",
+        "Emotion": "Surprised"
+    },
+    {
+        "id": "1448.wav",
+        "text": "Where did Brazil play Chile four years ago?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "2038.wav",
+        "text": "Steve snickered as several sick, sneezy snails sailed south.",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "High",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "1050.wav",
+        "text": "I can see that. You've had a few drinks, huh?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_questions_27008.wav",
+        "text": "what told his there was a snow-storm?",
+        "type": "QUESTIONS",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "High",
+        "Emotion": "Surprised"
+    },
+    {
+        "id": "text_paralinguistics_19566.wav",
+        "text": "Hey, so I um, I need to talk to you about something.",
+        "type": "PARALINGUISTICS",
+        "Pitch": "Medium",
+        "Volume": "Low",
+        "Speed": "Low",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_paralinguistics_33218.wav",
+        "text": "Oh. Um...I don't know what to say.",
+        "type": "PARALINGUISTICS",
+        "Pitch": "Medium",
+        "Volume": "Low",
+        "Speed": "Low",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "2996.wav",
+        "text": "Since 2007, he has been a member of the World Grand Family of Lebanon (RJ Lebanon Club).",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "1782.wav",
+        "text": "The \"arrondissement\" of Angoulême has 117 \"communes\"; they are (with their INSEE codes)ː",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "2366.wav",
+        "text": "Barbara Bush Coyne (\"née\" Barbara Pierce Bush; born November 25, 1981)",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_paralinguistics_30248.wav",
+        "text": "Whoa, that's a huge house! Where is that?",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Surprised"
+    },
+    {
+        "id": "text_emotion_3533.wav",
+        "text": "When my boyfriend told me that it would be difficult for him to marry me.",
+        "type": "EMOTION",
+        "Pitch": "Low",
+        "Volume": "Medium",
+        "Speed": "Low",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "text_emotion_1643.wav",
+        "text": " Even if I was seriously ill you couldn't spare a moment. ",
+        "type": "EMOTION",
+        "Pitch": "Low",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "text_paralinguistics_9298.wav",
+        "text": "Ow! I can't believe I just did that.",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Surprised"
+    },
+    {
+        "id": "text_paralinguistics_359.wav",
+        "text": "Whoa, we had no idea! That's so cool!",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "High",
+        "Emotion": "Surprised"
+    },
+    {
+        "id": "text_paralinguistics_8259.wav",
+        "text": "Nope, none at all. But I'm a quick learner and I'm excited to learn.",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "High",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "1874.wav",
+        "text": "Feeling unable to preserve one's ideas and ambitions as innocent as they are when you are young.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Low",
+        "Speed": "Medium",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "308.wav",
+        "text": "A pale pink proud peacock pompously preened its pretty plumage.",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "text_paralinguistics_20044.wav",
+        "text": "I... uh... don't actually remember.",
+        "type": "PARALINGUISTICS",
+        "Pitch": "Medium",
+        "Volume": "Low",
+        "Speed": "Low",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_paralinguistics_574.wav",
+        "text": "Whoa, that's amazing! Can it really fly?",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Surprised"
+    },
+    {
+        "id": "text_emotion_1225.wav",
+        "text": "We grew more and more excited. ",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "High",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "86.wav",
+        "text": "The rand (sign: R; code: ZAR) is the South African currency. 100 cents make up one rand. ",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "986.wav",
+        "text": "Terry told the teacher to try talking together.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "1630.wav",
+        "text": "Museums that have either exceptional malacological research collections (behind the scenes) and/or exceptional public exhibits of molluscs:",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "952.wav",
+        "text": "\"Czech Republic was placed on top of Italy because of their previous match against each other (2 – 1)\"",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "842.wav",
+        "text": "Funk rock (also typed as funk-rock) is a music genre that fuses funk and rock elements.",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_emotion_3843.wav",
+        "text": " Fine! I want a divorce! ",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "text_paralinguistics_15015.wav",
+        "text": "Uh...I don't remember? A long time ago I think?",
+        "type": "PARALINGUISTICS",
+        "Pitch": "Medium",
+        "Volume": "Low",
+        "Speed": "Low",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_emotion_2805.wav",
+        "text": "My father died. I was away at the time and did not know until two days after.",
+        "type": "EMOTION",
+        "Pitch": "Low",
+        "Volume": "Low",
+        "Speed": "Low",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "text_emotion_3993.wav",
+        "text": "When someone took my things without having asked for my permission.",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "text_emotion_2345.wav",
+        "text": "` Why? \" sighed Petrova, a little peeved that her deductions were now proving wide of the mark. ",
+        "type": "EMOTION",
+        "Pitch": "Low",
+        "Volume": "Low",
+        "Speed": "Low",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "780.wav",
+        "text": "\"Goodbye, Gertie,\" gushed Gussie. \"Goodbye Gussie,\" gushed Gertie.",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "2287.wav",
+        "text": "Transnistria, Transdniestria, or Pridnestrovie, officially the Pridnestrovian Moldavian Republic (PMR; ), is a partially-recognized state in Eastern Europe. ",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "1327.wav",
+        "text": " I'm sorry sir, this flight has been cancelled due to some mechanical problems. ",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "text_paralinguistics_14043.wav",
+        "text": "Whoa! Why would you do that?",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Surprised"
+    },
+    {
+        "id": "text_paralinguistics_12932.wav",
+        "text": "Hey, um, can I talk to you for a second?",
+        "type": "PARALINGUISTICS",
+        "Pitch": "Medium",
+        "Volume": "Low",
+        "Speed": "Low",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_paralinguistics_15587.wav",
+        "text": "Ouch! What the hell, Gweneth?",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "text_paralinguistics_15733.wav",
+        "text": "Me too! We must be neighbors! Small world, huh?",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "High",
+        "Emotion": "Surprised"
+    },
+    {
+        "id": "text_paralinguistics_34604.wav",
+        "text": "Ouch. What are you going to do about it?",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "text_paralinguistics_7823.wav",
+        "text": "Whoa, that's pretty fast! But don't you think you're spinning it a little too fast?",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "High",
+        "Emotion": "Surprised"
+    },
+    {
+        "id": "2015.wav",
+        "text": "John, where Peter had had had had\"",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "1688.wav",
+        "text": "A smile of amusement played on his lips as he studied his unkempt prize. ",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "text_emotion_1128.wav",
+        "text": " How dare you question my statement! ",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "text_emotion_122.wav",
+        "text": "As a child - having a dog - it getting a disease and dying.",
+        "type": "EMOTION",
+        "Pitch": "Low",
+        "Volume": "Low",
+        "Speed": "Low",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "1092.wav",
+        "text": "Its name comes from Tupi Kaninde - macaw; ju - yellow, blue-and-yellow macaw (\"Ara ararauna\").",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_emotion_3400.wav",
+        "text": "@ChuckTaylor18 @JonnyQuest23 going to see a friend's band play tonight in Midland.  #Hypakritz #tequila #tokillya",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "High",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "538.wav",
+        "text": "Four fighting farty fighters farted frequently while fighting ferociously.",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "text_emotion_1091.wav",
+        "text": "My uncle died in the Vietnam War.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Low",
+        "Speed": "Low",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "1620.wav",
+        "text": "Does this shop stock short socks with spots?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "200.wav",
+        "text": "Hey man, thanks for letting me crash here.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "263.wav",
+        "text": "Rory the warrior and Roger the worrier were reared wrongly in a rural brewery.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_paralinguistics_13799.wav",
+        "text": "Agh, why does it have to rain so hard?",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "text_emotion_2892.wav",
+        "text": "I was accepted by the Chinese university.",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "text_paralinguistics_4951.wav",
+        "text": "Ugh, you're so annoying! Why can't you just be normal for once?",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "1747.wav",
+        "text": "Ugh, I can't believe how hot it is out here. I feel like I'm going to melt.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Disgust"
+    },
+    {
+        "id": "text_paralinguistics_16162.wav",
+        "text": "Whoa, this is amazing! I can't believe we made it out here.",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "1841.wav",
+        "text": "The most famous coronavirus is one of the betas, the kind that causes Coronavirus disease 2019 (COVID-19) in humans.",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_paralinguistics_13630.wav",
+        "text": "Uh, I don't know. I'm kind of tired.",
+        "type": "PARALINGUISTICS",
+        "Pitch": "Medium",
+        "Volume": "Low",
+        "Speed": "Low",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "26.wav",
+        "text": "I am really sad that nobody wants to do it like I have done it for them. ",
+        "type": "SYNTACTIC_COMPLEXITY",
+        "Pitch": "Low",
+        "Volume": "Medium",
+        "Speed": "Low",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "1397.wav",
+        "text": "Is the left life raft the right life raft, or is the right life raft the right life raft?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "2076.wav",
+        "text": "I want to change rooms. In fact, I want a refund for tonight! ",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "High",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "2533.wav",
+        "text": "Bridgette's brother built a brick bridge by the boulders beneath the bluffs.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "110.wav",
+        "text": "In 2010, it was announced that Gonzalez would be the first Diamondbacks player to have his jersey number (20) retired.",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "867.wav",
+        "text": "Orz should not be confused with m(_ _)m, which means an apology.",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "2267.wav",
+        "text": "1. ^ Goaman, K., Amery, H. (1983). Mysteries & Marvels of the Animal World: pg.15",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "286.wav",
+        "text": "Why didn't the man go to the river?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "513.wav",
+        "text": "Yeah, I appreciate that. Uh, so what do you want me to say? That I feel the same way?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_questions_3583.wav",
+        "text": "Who was locked in the golden peach pit?",
+        "type": "QUESTIONS",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "High",
+        "Emotion": "Surprised"
+    },
+    {
+        "id": "text_paralinguistics_14218.wav",
+        "text": "Agh, I can't let you beat me!",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "373.wav",
+        "text": "Shoes and socks shock Susie.",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Surprised"
+    },
+    {
+        "id": "text_paralinguistics_31466.wav",
+        "text": "Ow! What the hell was that for?",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "text_emotion_4009.wav",
+        "text": " Wait, what are you doing? I' m a married woman! You can' t just try to kiss me like this! ",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "text_emotion_1246.wav",
+        "text": "Resist Launch out into the deep!",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Fearful"
+    },
+    {
+        "id": "text_paralinguistics_3194.wav",
+        "text": "Yep, let's hit the town!",
+        "type": "PARALINGUISTICS",
+        "Pitch": "Medium",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "text_emotion_2517.wav",
+        "text": "I received a grade above average on a midterm (chemistry) and I expected on every below average.",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "High",
+        "Emotion": "Surprised"
+    },
+    {
+        "id": "1822.wav",
+        "text": "When I passed the first year and so I could come back for my second year.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_emotion_2543.wav",
+        "text": "Receiving close friends form abroad, whom I hadn't seen for years.",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "2738.wav",
+        "text": "The inhabitants of Mont-de-Marsan are known, in French, as \"Montois\" (women: \"Montoises\").",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "2890.wav",
+        "text": "Some people have wanted Turkey to join the European Union (EU) since the 1990s. Negotiations to join began in 2005.",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "1428.wav",
+        "text": "Round and round the rugged rock the ragged rascal ran.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "High",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "text_emotion_667.wav",
+        "text": "The fact that I hadn't been informed about something and I had the greatest trust in this person.",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Disgust"
+    },
+    {
+        "id": "text_emotion_1101.wav",
+        "text": " I am really looking forward to getting away from you. Far away from you! ",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "244.wav",
+        "text": "Where are you from, Chirp?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_paralinguistics_32606.wav",
+        "text": "okay, here I go! *jumps through the hoop* Yay, I did it again! Can I have my treat now please?",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "High",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "362.wav",
+        "text": "The \"arrondissement\" of Toul has 112 \"communes\"; they are (with their INSEE codes)ː",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "1006.wav",
+        "text": "Three grey geeseIn a green field grazing,Grey were the geeseAnd green was the grazing.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral to Happy"
+    },
+    {
+        "id": "text_paralinguistics_24767.wav",
+        "text": "Ow! Yeah, that really hurts!",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Pain/Surprised"
+    },
+    {
+        "id": "2986.wav",
+        "text": " No, you haven' t. You just don' t care about me. You' re an indifferent husband. ",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "text_emotion_3180.wav",
+        "text": "To her annoyance a warm blush was steadily creeping into her cheeks. ",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "Low",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_emotion_1600.wav",
+        "text": " You can't be serious. How dare you not tell me you are going to marry her? ",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "1304.wav",
+        "text": "When a person that I like very much got near to me.",
+        "type": "SYNTACTIC_COMPLEXITY",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "text_paralinguistics_33471.wav",
+        "text": "What the hell happened? Why did our TV just fall off the stand and crash to the floor?!",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Surprised"
+    },
+    {
+        "id": "1764.wav",
+        "text": "Ouch! My arm hurts really bad.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "text_emotion_3708.wav",
+        "text": "Her shoulders were slumped and she was walking slowly, looking depressed. ",
+        "type": "EMOTION",
+        "Pitch": "Low",
+        "Volume": "Low",
+        "Speed": "Low",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "623.wav",
+        "text": "How long did it take him to find it?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_emotion_2672.wav",
+        "text": "Conner is still furious about losing Tuesday 's protest. ",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "2781.wav",
+        "text": "Were there plans in place to prevent this?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "2336.wav",
+        "text": "Dimpled Dina danced in a dainty dimity down the dunes.",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "text_emotion_2490.wav",
+        "text": "When I nearly drowned in icy water wearing ice skates.  It was difficult to get out.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Fearful"
+    },
+    {
+        "id": "text_emotion_1987.wav",
+        "text": " it sounds like any job will be better than the one you have now! ",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "High",
+        "Emotion": "Disgust"
+    },
+    {
+        "id": "2177.wav",
+        "text": "` I had the sense he was rather sad, \" the writer now remembers. ",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "267.wav",
+        "text": "When I was attending an authorized demonstration and the police rushed brutally at the demonstrators, without any warning.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Fearful"
+    },
+    {
+        "id": "text_emotion_3950.wav",
+        "text": "When I felt being treated unjustly by a teacher.",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "High",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "2833.wav",
+        "text": "Caesarea (, \"Kaysariya\" or \"Qesarya\"; , \"Qaysaria\"; ) is a town in north-central Israel. ",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "2396.wav",
+        "text": "What happened to Helen Keller when she was a baby?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "379.wav",
+        "text": "Hey, um, I was wondering if I could talk to you about something?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Low",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_emotion_202.wav",
+        "text": "When I woke up after a nightmare.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Low",
+        "Speed": "Low",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "1554.wav",
+        "text": "Who was he preparing the banquet for?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "1779.wav",
+        "text": "A meme (pronounce as \"meem\") is an idea or style which spreads because one person copies it from another.",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_paralinguistics_28652.wav",
+        "text": "What? You're nicking me blimey watch! Give it over!'",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "text_paralinguistics_32116.wav",
+        "text": "Yay! I want to learn everything about them!",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "971.wav",
+        "text": "When did Jordan take the West Bank?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "2513.wav",
+        "text": "I had drunk a couple of beers and my fiancee got angry at me.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Low",
+        "Speed": "Medium",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "755.wav",
+        "text": "How many of them he recognize by name?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "641.wav",
+        "text": "Nope, I haven't seen them. Are you sure you had them with you when we came in?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "1699.wav",
+        "text": " Yes, 50 Yuan per month. ",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_paralinguistics_22415.wav",
+        "text": "Um...I was thinking maybe in a couple of months?",
+        "type": "PARALINGUISTICS",
+        "Pitch": "Medium",
+        "Volume": "Low",
+        "Speed": "Low",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "1924.wav",
+        "text": "What are some of the smaller things?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "1884.wav",
+        "text": "According to his dad, did he have a reason to be frightened by it?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_questions_6350.wav",
+        "text": "Were they in front of the buffaloes at that time?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Fearful"
+    },
+    {
+        "id": "2531.wav",
+        "text": "Steven Blake Crowder (; born July 7, 1987) is a conservative American-Canadian comedian, actor and political commentator. ",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "670.wav",
+        "text": "The fish and chips shop's chips are soft chips.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "687.wav",
+        "text": "Little Boy Blue, a big blue bubble blew.",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "text_paralinguistics_15071.wav",
+        "text": "Oh, so you're finally standing up to me, huh?",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Angry"
+    },
+    {
+        "id": "text_emotion_1563.wav",
+        "text": " But she did and made me disappointed. ",
+        "type": "EMOTION",
+        "Pitch": "Low",
+        "Volume": "Low",
+        "Speed": "Medium",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "888.wav",
+        "text": "Organic farms grow foods without using man-made chemicals (like pesticides or herbicides) which can harm the environment or wildlife.",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "2751.wav",
+        "text": "A fat-free fruit float. A fat-free fruit float. A fat-free fruit float.",
+        "type": "COMPOUND_NOUNS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "292.wav",
+        "text": "She wished her sister pushed us swifter.",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "High",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_emotion_785.wav",
+        "text": "I went to see the entrance examination results at university.  I rejoyced at my success.",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "text_emotion_503.wav",
+        "text": "When I try to get closer at a person and she misinterpreted me.",
+        "type": "EMOTION",
+        "Pitch": "Low",
+        "Volume": "Low",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_paralinguistics_33111.wav",
+        "text": "Hey, um, I think I'm going to quit.",
+        "type": "PARALINGUISTICS",
+        "Pitch": "Low",
+        "Volume": "Low",
+        "Speed": "Medium",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "text_paralinguistics_16098.wav",
+        "text": "No, not really. I might just go home and crash. I'm feeling pretty tired from all the dancing.",
+        "type": "PARALINGUISTICS",
+        "Pitch": "Low",
+        "Volume": "Medium",
+        "Speed": "Low",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "1266.wav",
+        "text": "what is the largest country in Oceania?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_paralinguistics_9973.wav",
+        "text": "Nope, they look perfect on you. The fit is really flattering. Trust me, you'll look amazing in them.",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "High",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "1143.wav",
+        "text": "Kim Won-bong (, 1898 – November 1958?) was a Korean independence activist, and politician. His nickname was 'Yaksan' ().",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "2193.wav",
+        "text": "How many years had it been since he'd left them there?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_paralinguistics_26542.wav",
+        "text": "Uh...I don't know. I guess I thought it was funny? But like I said, I'm sorry. It won't happen again.",
+        "type": "PARALINGUISTICS",
+        "Pitch": "Low",
+        "Volume": "Low",
+        "Speed": "Low",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "1118.wav",
+        "text": "A wave of cheerful elation swept over her as she separated her pound note from Yanto 's fivers. ",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "text_emotion_2375.wav",
+        "text": "Her voice shook, her face was white with anguish. ",
+        "type": "EMOTION",
+        "Pitch": "Low",
+        "Volume": "Low",
+        "Speed": "Low",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "text_paralinguistics_4581.wav",
+        "text": "Ouch! Why did you hit me with the stick?",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Surprised"
+    },
+    {
+        "id": "text_paralinguistics_7155.wav",
+        "text": "Whoa, that's amazing! How did you do that?",
+        "type": "PARALINGUISTICS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Surprised"
+    },
+    {
+        "id": "1452.wav",
+        "text": "The boy blinked at the blank bank blackboard.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Surprised"
+    },
+    {
+        "id": "text_emotion_659.wav",
+        "text": "The death of a close relative.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Low",
+        "Speed": "Low",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "text_emotion_940.wav",
+        "text": "There was real anguish in his eyes. ",
+        "type": "EMOTION",
+        "Pitch": "Low",
+        "Volume": "Medium",
+        "Speed": "Low",
+        "Emotion": "Sad"
+    },
+    {
+        "id": "text_emotion_4076.wav",
+        "text": "Mungo felt elated, smiling back. ",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "775.wav",
+        "text": "Mrs Hunt had a country cut front in the front of her country cut petticoat.",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_questions_19323.wav",
+        "text": "what happened to his team mates car?",
+        "type": "QUESTIONS",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Surprised"
+    },
+    {
+        "id": "316.wav",
+        "text": " I'm afraid I can only rent it for two months. ",
+        "type": "EMOTION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "text_emotion_1391.wav",
+        "text": "The process of spotting and refusing to obey it is the source of all true #empowerment. -Martha Beck",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "Medium",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "239.wav",
+        "text": " Thank you. I am very excited. ",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "2930.wav",
+        "text": "What do the girls play twice a week?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "1475.wav",
+        "text": "Ilham Heydar oglu Aliyev (born December 24, 1961) is the current President of Azerbaijan and has been serving since 2003. ",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "1210.wav",
+        "text": "For the watching world, she smiled and laughed, seeming perfectly delighted with her husband and newfound status. ",
+        "type": "EMOTION",
+        "Pitch": "High",
+        "Volume": "High",
+        "Speed": "High",
+        "Emotion": "Happy"
+    },
+    {
+        "id": "1506.wav",
+        "text": "Pichincha () is a province of Ecuador located in the northern sierra region; its capital and largest city is Quito. ",
+        "type": "PUNCTUATION",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    },
+    {
+        "id": "1909.wav",
+        "text": "Did he hold back on his reviews?",
+        "type": "QUESTIONS",
+        "Pitch": "Medium",
+        "Volume": "Medium",
+        "Speed": "Medium",
+        "Emotion": "Neutral"
+    }
+]
